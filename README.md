@@ -1,1 +1,1 @@
-# Mixture-of-varying-coefficient-compositional-linear-regression-
+# Mixture of varying coefficient compositional linear regression 
